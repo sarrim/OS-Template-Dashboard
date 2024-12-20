@@ -1,0 +1,4 @@
+﻿subject,description,priority,status,department,created,assigned_to,email,phone
+Login issue,",""User cannot log in with correct credentials""",1,open,Support,12/19/2024 12:00,1,user@example.com,1234567890
+Payment error,"""Payment gateway fails to process"",",2,open,Billing,12/19/2024 12:10,2,customer@example.com,987654321
+Password reset,"""User needs password reset link sent""",3,closed,Support,12/18/2024 15:30,3,helpdesk@example.com,1122334455
